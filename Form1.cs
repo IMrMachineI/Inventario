@@ -48,7 +48,8 @@ namespace Inventario
         {
             txtReporte.Text = nuevoAlmacen.reporte();
         }
-
+        Que paso muchacho
+        
         private void btnInsertar_Click(object sender, EventArgs e)
         {
             int codigo = Convert.ToInt32(txtCodigo.Text);
